@@ -1,0 +1,13 @@
+Kernel : Linux GetJurist.host 2.6.32-042stab145.3 #1 SMP Thu Jun 11 14:05:04 MSK 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+Version: Linux version 2.6.32-042stab145.3 (root@kbuild-rh6-x64.eng.sw.ru) (gcc version 4.4.7 20120313 (Red Hat 4.4.7-18) (GCC) ) #1 SMP Thu Jun 11 14:05:04 MSK 2020
+
+OS: Linux
+
+SoftWare: Apache/2.4.18 (Ubuntu)
+
+PHP Version: 7.0.33-0ubuntu0.16.04.14
+
+Linux GetJurist.host 2.6.32-042stab145.3 #1 SMP Thu Jun 11 14:05:04 MSK 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+uid=501(www-root) gid=501(www-root) groups=501(www-root),1001(mgrsecure)

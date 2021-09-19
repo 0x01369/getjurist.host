@@ -1,0 +1,54 @@
+[COOKIE: Array
+(
+    [PHPSESSID] => a4ad7e39b3b09673c9e8b807944be942
+)
+]
+[VARIABLE: Array
+(
+    [device_id] => 2F4FFF5B493841B9A4B309F1DA9D77D1
+
+    [facebook_data] => Array
+        (
+            [bdate] => 09.12.1993
+
+            [email] => masaleva2011@mail.ru
+
+            [first_name] => Anastasiya
+
+            [identity] => https://www.facebook.com/app_scoped_user_id/1676791742384950/
+
+            [last_name] => Masaleva
+
+            [network] => facebook
+
+            [photo_big] => http://graph.facebook.com/1676791742384950/picture?type=large
+
+            [profile] => https://www.facebook.com/app_scoped_user_id/1676791742384950/
+
+            [uid] => 1676791742384950
+
+            [verified_email] => 1
+
+        )
+
+    [type] => facebook_user
+)
+]
+[PHP-INPUT: device_id=2F4FFF5B493841B9A4B309F1DA9D77D1
+&facebook_data[bdate]=09.12.1993
+&facebook_data[email]=masaleva2011@mail.ru
+&facebook_data[first_name]=Anastasiya
+&facebook_data[identity]=https://www.facebook.com/app_scoped_user_id/1676791742384950/
+&facebook_data[last_name]=Masaleva
+&facebook_data[network]=facebook
+&facebook_data[photo_big]=http://graph.facebook.com/1676791742384950/picture?type=large
+&facebook_data[profile]=https://www.facebook.com/app_scoped_user_id/1676791742384950/
+&facebook_data[uid]=1676791742384950
+&facebook_data[verified_email]=1
+&type=facebook_user]
+[PHP-INPUT: Array
+(
+    [key] => 
+    [user] => 
+)
+]
